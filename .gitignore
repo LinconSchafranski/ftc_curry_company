@@ -1,0 +1,15 @@
+# Pastas do Jupyter e backups
+.ipynb_checkpoints/
+.jupyter/
+
+# Arquivos de controle do pyenv
+.python-version
+
+# Pastas de documentos temporários
+.virtual_documents/
+
+# Scripts temporários
+get-pip.py
+
+# Ambiente virtual
+venv/
